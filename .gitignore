@@ -1,7 +1,2 @@
 *.class
 .vagrant
-
-# Package Files #
-*.jar
-*.war
-*.ear
